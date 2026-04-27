@@ -1,0 +1,227 @@
+[
+  {
+    "id": "mumbai_goregaon_west",
+    "name": "Goregaon Police Station (West)",
+    "address": "S.V. Road, Near Cinemax Theatre, Goregaon West, Mumbai",
+    "phone": "02228721900",
+    "latitude": 19.1628,
+    "longitude": 72.8436,
+    "city": "Mumbai"
+  },
+  {
+    "id": "mumbai_vanrai",
+    "name": "Vanrai Police Station (Goregaon E)",
+    "address": "WEH, Opposite Hub Mall, Goregaon East, Mumbai",
+    "phone": "02226861677",
+    "latitude": 19.1592,
+    "longitude": 72.8548,
+    "city": "Mumbai"
+  },
+  {
+    "id": "mumbai_aarey_sub",
+    "name": "Aarey Sub Police Station",
+    "address": "Dinkar Desai Marg, Near Chota Kashmir, Goregaon East",
+    "phone": "02226858484",
+    "latitude": 19.1485,
+    "longitude": 72.8719,
+    "city": "Mumbai"
+  },
+  {
+    "id": "mumbai_dindoshi",
+    "name": "Dindoshi Police Station",
+    "address": "Film City Road, Goregaon East, Mumbai",
+    "phone": "02228401311",
+    "latitude": 19.1717,
+    "longitude": 72.8724,
+    "city": "Mumbai"
+  },
+  {
+    "id": "mumbai_santosh_nagar_chowky",
+    "name": "Santosh Nagar Police Chowky",
+    "address": "Santosh Nagar, Goregaon East, Mumbai",
+    "phone": "02228401311",
+    "latitude": 19.1785,
+    "longitude": 72.8835,
+    "city": "Mumbai"
+  },
+  {
+    "id": "mumbai_bangur_nagar",
+    "name": "Bangur Nagar Police Station",
+    "address": "Link Road, Goregaon West, Mumbai",
+    "phone": "02228771125",
+    "latitude": 19.1685,
+    "longitude": 72.8344,
+    "city": "Mumbai"
+  },
+  {
+    "id": "vasai_village",
+    "name": "Vasai Police Station",
+    "address": "Killa Road, Vasai Village, Vasai West",
+    "phone": "02502327073",
+    "latitude": 19.3304,
+    "longitude": 72.8105,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_manikpur",
+    "name": "Manikpur Police Station",
+    "address": "Ambadi Road, Vasai West, Palghar",
+    "phone": "02502332110",
+    "latitude": 19.3789,
+    "longitude": 72.8229,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_valiv",
+    "name": "Valiv Police Station",
+    "address": "Gavraipada Road, Vasai East, Palghar",
+    "phone": "02502454400",
+    "latitude": 19.3956,
+    "longitude": 72.8592,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_pelhar",
+    "name": "Pelhar Police Station",
+    "address": "Pelhar, Vasai East, Palghar",
+    "phone": "02502453300",
+    "latitude": 19.4145,
+    "longitude": 72.8852,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_achole",
+    "name": "Achole Police Station",
+    "address": "Achole Road, Nallasopara East",
+    "phone": "02502441100",
+    "latitude": 19.4215,
+    "longitude": 72.8552,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_tulinj",
+    "name": "Tulinj Police Station",
+    "address": "Tulinj Road, Nallasopara East",
+    "phone": "02502441100",
+    "latitude": 19.4239,
+    "longitude": 72.8427,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_nalasopara_west",
+    "name": "Nallasopara Police (West)",
+    "address": "Sainagar, Vasai Link Road, Nallasopara West",
+    "phone": "02502402033",
+    "latitude": 19.4172,
+    "longitude": 72.8164,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_road_rly",
+    "name": "Vasai Road Railway Police",
+    "address": "Vasai Road Platform No 1, Vasai West",
+    "phone": "02267638016",
+    "latitude": 19.3828,
+    "longitude": 72.8319,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_naigaon_east",
+    "name": "Naigaon East Police Stn",
+    "address": "Naigaon East, Palghar",
+    "phone": "02502453300",
+    "latitude": 19.3512,
+    "longitude": 72.8521,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_virar",
+    "name": "Virar Police Station",
+    "address": "Manvel Pada Road, Virar East",
+    "phone": "02502528222",
+    "latitude": 19.4589,
+    "longitude": 72.8169,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_arnala",
+    "name": "Arnala Sagari Police Stn",
+    "address": "Arnala, Virar West",
+    "phone": "02502587208",
+    "latitude": 19.4533,
+    "longitude": 72.7758,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_boling",
+    "name": "Boling Police Station",
+    "address": "Boling, Virar West",
+    "phone": "02502528222",
+    "latitude": 19.4712,
+    "longitude": 72.7952,
+    "city": "Vasai"
+  },
+  {
+    "id": "vasai_mandvi",
+    "name": "Mandvi Police Station",
+    "address": "Mandvi, Vasai East",
+    "phone": "02502460004",
+    "latitude": 19.4321,
+    "longitude": 72.9342,
+    "city": "Vasai"
+  },
+  {
+    "id": "mbvv_bhayandar",
+    "name": "Bhayandar Police Station",
+    "address": "S.V. Road, Bhayandar West",
+    "phone": "02228192300",
+    "latitude": 19.2985,
+    "longitude": 72.8524,
+    "city": "Mira-Bhayandar"
+  },
+  {
+    "id": "mbvv_mira_road",
+    "name": "Mira Road Police Station",
+    "address": "Shanti Nagar, Mira Road East",
+    "phone": "02228121300",
+    "latitude": 19.2815,
+    "longitude": 72.8724,
+    "city": "Mira-Bhayandar"
+  },
+  {
+    "id": "mbvv_kashimira",
+    "name": "Kashimira Police Station",
+    "address": "WEH, Kashimira, Mira Road",
+    "phone": "02228452135",
+    "latitude": 19.2615,
+    "longitude": 72.8924,
+    "city": "Mira-Bhayandar"
+  },
+  {
+    "id": "mumbai_malad_west",
+    "name": "Malad Police Station",
+    "address": "S.V. Road, Malad West, Mumbai",
+    "phone": "02228822452",
+    "latitude": 19.1865,
+    "longitude": 72.8424,
+    "city": "Mumbai"
+  },
+  {
+    "id": "mumbai_kandivali_east",
+    "name": "Kandivali Police Station",
+    "address": "Akurli Road, Kandivali East, Mumbai",
+    "phone": "02228873095",
+    "latitude": 19.2085,
+    "longitude": 72.8624,
+    "city": "Mumbai"
+  },
+  {
+    "id": "mumbai_borivali_west",
+    "name": "Borivali Police Station",
+    "address": "S.V. Road, Borivali West, Mumbai",
+    "phone": "02228930145",
+    "latitude": 19.2292,
+    "longitude": 72.8573,
+    "city": "Mumbai"
+  }
+]
